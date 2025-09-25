@@ -41,7 +41,6 @@
 | **The‑Life‑Path‑Number‑App** | Numerology app | C++ |
 | **petcare** | Web frontend for pet care | CSS, HTML, JS |
 
-You can pin more or fewer as you like.
 
 ---
 
