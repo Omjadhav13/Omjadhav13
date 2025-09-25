@@ -47,37 +47,32 @@ You can pin more or fewer as you like.
 
 ---
 
-### 📈 GitHub Activity & Stats
+### 📈 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Omjadhav13&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omjadhav13&theme=react-dark&hide_border=true)
 
 ---
 
 ### 🏅 Achievements & Badges
 
-| ![Pull Shark](https://github.com/Omjadhav13.png) | ![YOLO](https://github.com/Omjadhav13.png) |
+| ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) | ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) |
 |---|---|
 | Pull Shark | YOLO |
 
-*Replace with real badge images or award graphics*
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Connect with Me
 
 | Platform | Link |
-|---|---|
-| LinkedIn | https://in.linkedin.com/in/omjadhav13 |
-| GitHub | https://github.com/Omjadhav13 |
-| Email | your-email@example.com |
+|---------|------|
+| 🌐 GitHub | [Omjadhav13](https://github.com/Omjadhav13) |
+| 💼 LinkedIn | [linkedin.com/in/omjadhav13](https://linkedin.com/in/omjadhav13) |
+| 📧 Email | *youremail@example.com* (replace with your actual email) |
 
 ---
 
-### 📝 Footer
+### 🙏 Thanks for Visiting!
 
-Thanks for stopping by!  
-⭐️ Feel free to drop a star if you like any of my projects  
-🚀 Let’s build something awesome together  
+If you like my work, feel free to ⭐️ my repositories and let's build something awesome together!
 
