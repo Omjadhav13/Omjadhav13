@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Omjadhav13&show_icons=true&theme=dark" alt="Om’s GitHub Stats" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Omjadhav13&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omjadhav13&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omjadhav13&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 <!-- END HEADER -->
