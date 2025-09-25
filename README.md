@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Omjadhav13&color=blue" alt="Profile views" />
   <br>
   <a href="https://github.com/Omjadhav13">
-    <img src="https://github-readme-stats.vercel.app/api?username=Omjadhav13&show_icons=true&theme=radical" alt="Om’s GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Omjadhav13&show_icons=true&theme=dark" alt="Om’s GitHub Stats" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Omjadhav13&theme=radical">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omjadhav13&theme=radical" alt="GitHub Streak" />
