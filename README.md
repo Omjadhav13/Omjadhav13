@@ -15,20 +15,18 @@
 
 ### 👋 Hello, I’m Om (Om Jadhav)
 
-- 🔭 I’m currently working on **[rewards-converter](https://github.com/Omjadhav13/rewards-converter)**
-- 🌱 I’m learning **blockchain, smart contracts, DeFi**
-- 👯 I’m looking to collaborate on open source, especially in Web3 / backend projects
-- 💬 Ask me about Java, JavaScript, Ethereum, or system design
+- 🎓 Pursuing PG-DAC at CDAC
+- 💬 Ask me about Java, JavaScript, C++, C# and Azure
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/omjadhav13)
-- ⚡ Fun fact: I love solving algorithmic puzzles & contributing to learning resources
+- ⚡ Fun fact: I have completed the AZ-900 Azure Fundamentals certification and built the petcare project using Azure
 
 ---
 
 ### 🛠 Technologies & Tools
 
-| Frontend | Backend | Blockchain / Smart Contracts | DevOps / Others |
-|---|---|---|---|
-| HTML, CSS, JS, React | Node.js, Express, Java | Solidity, Web3.js, Hardhat | Git, Docker, CI/CD, Linux |
+| Frontend | Backend | DevOps / Others |
+|---|---|---|
+| HTML, CSS, JS, React | Node.js, Express, Java | Git, Docker, CI/CD, Linux |
 
 ---
 
@@ -37,7 +35,7 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | **rewards-converter** | JPMC Software Engineering Lite program | Java |
-| **betterfund‑crowdfunding-in-blockchain** | Decentralized crowdfunding platform | Solidity, JS, Ethereum |
+| **betterfund‑crowdfunding-in-blockchain** | Decentralized crowdfunding platform | Solidity, JS, Ethereum |  <!-- you can remove this row if you want -->
 | **Parking‑Management‑System** | Manage parking floors, billing | C++ |
 | **Bank‑Management‑System** | Banking operations with accounts | C++ |
 | **The‑Life‑Path‑Number‑App** | Numerology app | C++ |
@@ -59,7 +57,6 @@ You can pin more or fewer as you like.
 |---|---|
 | Pull Shark | YOLO |
 
-
 ---
 
 ### 📬 Connect with Me
@@ -75,4 +72,3 @@ You can pin more or fewer as you like.
 ### 🙏 Thanks for Visiting!
 
 If you like my work, feel free to ⭐️ my repositories and let's build something awesome together!
-
