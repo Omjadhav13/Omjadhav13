@@ -65,7 +65,7 @@ You can pin more or fewer as you like.
 |---------|------|
 | 🌐 GitHub | [Omjadhav13](https://github.com/Omjadhav13) |
 | 💼 LinkedIn | [linkedin.com/in/omjadhav13](https://linkedin.com/in/omjadhav13) |
-| 📧 Email | *youremail@example.com* (replace with your actual email) |
+| 📧 Email | *omsjadhav1303@gmail.com*  |
 
 ---
 
