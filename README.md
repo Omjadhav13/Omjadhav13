@@ -1,13 +1,19 @@
-<!-- START HEADER -->
+<!-- ======================== -->
+<!-- 👋 Welcome / Header -->
+<h1 align="center">Hi, I’m <strong>Om Jadhav</strong> 👋</h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Omjadhav13&color=blue" alt="Profile views" />
-  <br>
-  <a href="https://github.com/Omjadhav13">
-    <img src="https://github-readme-stats.vercel.app/api?username=Omjadhav13&show_icons=true&theme=dark" alt="Om’s GitHub Stats" />
-  </a>
- <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Omjadhav13&theme=dark&hide_border=false"/>
 </p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Omjadhav13&show_icons=true&theme=github_dark&hide_border=false" alt="Om’s GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Omjadhav13&theme=github_dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <!-- END HEADER -->
