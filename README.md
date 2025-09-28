@@ -5,9 +5,9 @@
   <a href="https://github.com/Omjadhav13">
     <img src="https://github-readme-stats.vercel.app/api?username=Omjadhav13&show_icons=true&theme=dark" alt="Om’s GitHub Stats" />
   </a>
-  <a href="https://github-readme-streak-stats.demolab.com/?user=Omjadhav13&theme=dark">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=Omjadhav13&theme=dark" alt="GitHub Streak" />
-  </a>
+ <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Omjadhav13&theme=dark&hide_border=false"/>
+</p>
 </p>
 
 <!-- END HEADER -->
