@@ -33,7 +33,7 @@
 
 | Frontend | Backend | DevOps / Others |
 |---|---|---|
-| HTML, CSS, JS, React | Node.js, Express, Java | Git, Docker, CI/CD, Linux |
+| HTML, CSS, JS, React | Node.js, Express, Java | Git, Linux |
 
 ---
 
